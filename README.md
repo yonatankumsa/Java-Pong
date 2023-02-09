@@ -1,5 +1,7 @@
 # java-pong
 
+Step up to the virtual table with this simple yet exciting Java-built Ping Pong game. Featuring responsive controls,and smooth animations, players can enjoy the classic gameplay of Ping Pong right on their screen. With its user-friendly interface and easy-to-learn mechanics, this Java-based Ping Pong game is perfect for players of all levels looking for a fast-paced and enjoyable gaming experience.
+
 ## Scenes
 Game is split into following scenes:
 1. A welcome scene, which contains the main menu.
